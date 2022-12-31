@@ -1,0 +1,36 @@
+h1{
+    color: rebeccapurple !important;
+    background-color: aqua;
+    width: 100px;
+    font-size: 50px;
+    font-style: italic;
+    font-family: monospace
+}
+input{
+width: 200px;
+height: 30px;
+background-color: #400d51;
+color: #31e1f7;
+
+}
+.para{
+    color: red;
+}
+#p1{
+    color: #2bff00;
+}
+p{
+   color: red; 
+}
+.bb{
+    color: rgb(255, 0, 0);
+}
+.br{
+    color: #2bff00;
+}
+.bs{
+    color: #1100ff;
+}
+.bb, .br{
+    font-size: 50px;
+}
